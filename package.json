@@ -1,7 +1,7 @@
 {
-  "name": "my-app",
+  "name": "react-router-transitions",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@types/jest": "^20.0.8",
     "@types/node": "^8.0.26",
